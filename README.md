@@ -1,8 +1,10 @@
-<h2 align="left">I'am João Victor</h2>
+<br clear="both">
+
+<h2 align="center">I'am João Victor 🤓</h2>
 
 ###
 
-<h1 align="left">What's up</h1>
+<h1 align="left">What's up  ✌🏼</h1>
 
 ###
 
@@ -32,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
 </div>
 
 ###
